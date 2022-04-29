@@ -23,3 +23,5 @@ print(Fore.GREEN + '1) Фильтрация определенных значе�
 print(dataframe.source == 'SEO')
 print(Fore.GREEN + '2)')
 print(dataframe.source[dataframe.source == 'SEO'])
+
+# статья: https://pythonru.com/biblioteki/tsvetnoj-vyvod-teksta-v-python-colorama
